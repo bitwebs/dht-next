@@ -1,6 +1,6 @@
 {
   "name": "@web4/dht",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "The DHT powering the BitWeb",
   "main": "index.js",
   "browser": "browser.js",
